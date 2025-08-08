@@ -9,7 +9,7 @@
 
 ### 💼 About Me
 
-- 🎓 I recently graduated with a degree in **Software Engineering**
+- 🎓 I recently graduated with a Bachelor degree in **Software Engineering**
 - 🔭 I’m currently **seeking a full-time role** in software development
 - 🌱 I’m learning more about Full Stack Development
 - 📫 How to reach me: **omareissa0921@gmail.com**
