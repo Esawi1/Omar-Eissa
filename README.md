@@ -13,7 +13,6 @@
 - 🔭 I’m currently **seeking a full-time role** in software development
 - 🌱 I’m learning more about Full Stack Development
 - 📫 How to reach me: **omareissa0921@gmail.com**
-- 🌐 Visit my portfolio: [your-website.com](https://your-website.com)
 - 📄 [Check out my CV](https://drive.google.com/file/d/1T7qbpGVT97iZr7f8MwucVldMOQ-aeuhA/view?usp=drive_link)
 
 ---
