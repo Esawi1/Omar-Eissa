@@ -1,4 +1,3 @@
-<img src="./Me.jpg" width="150" style="border-radius: 50%; float: left; margin-right: 20px;" alt="Omar Eissa profile picture" />
 
 # Hi 👋, I'm Omar Eissa
 
