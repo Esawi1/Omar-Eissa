@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Me.jpg" width="200" style="border-radius: 50%;" alt="Omar Eissa profile picture" />
+</p>
+
 <h1 align="center">Hi 👋, I'm  Omar Eissa</h1>
 <h3 align="center">A fresh graduate Software Engineer passionate about building smart and scalable solutions — and actively seeking exciting opportunities!</h3>
 
