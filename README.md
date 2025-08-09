@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Me.jpg" width="200" style="border-radius: 50%;" alt="Omar Eissa profile picture" />
+<img src="./Me.jpg" width="150" style="border-radius: 50%; float: left; margin-right: 20px;" alt="Omar Eissa profile picture" />
 </p>
 
 <h1 align="center">Hi 👋, I'm  Omar Eissa</h1>
