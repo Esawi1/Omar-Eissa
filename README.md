@@ -1,9 +1,9 @@
-<p align="center">
-<img src="\Me.jpg" width="150" style="border-radius: 50%; float: left; margin-right: 20px;" alt="Omar Eissa profile picture" />
-</p>
+<img src="./Me.jpg" width="150" style="border-radius: 50%; float: left; margin-right: 20px;" alt="Omar Eissa profile picture" />
 
-<h1 align="center">Hi 👋, I'm  Omar Eissa</h1>
-<h3 align="center">A fresh graduate Software Engineer passionate about building smart and scalable solutions — and actively seeking exciting opportunities!</h3>
+# Hi 👋, I'm Omar Eissa
+
+A fresh graduate Software Engineer passionate about building smart and scalable solutions — and actively seeking exciting opportunities!
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" alt="Coding monkey gif"/>
